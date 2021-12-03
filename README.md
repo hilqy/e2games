@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to e2 games
 
-You can use the [editor on GitHub](https://github.com/hilqy/e2games/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Play some games at skool or something.
+Gaming.
 
 ### Markdown
 
@@ -11,7 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Header 1 11
 ## Header 2
 ### Header 3
 
